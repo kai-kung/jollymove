@@ -651,7 +651,22 @@ ul li {
 }
 
 @media (min-width: 767px) { 
-
+    .tp-caption.large {
+        color: #fff;
+        font-size: 54px;
+        font-weight: bold;
+        line-height: 64px;
+        text-align: center;
+        text-transform: uppercase;
+    }
+    .tp-caption.small {
+        color: #fff;
+        font-size: 20px;
+        font-weight: normal;
+        line-height: 30px;
+        text-align: center;
+        text-transform: uppercase;
+    }
 }
 
 /*-----------------------------------------------------------------------------------*/
